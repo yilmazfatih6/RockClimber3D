@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0fff20c8f9d70422f82a265615bf07fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - onAttachmentTargetSelected: {fileID: 11400000, guid: 7e4bf8cef704f460faef48ac6364b8cf, type: 2}
+  - onAttachmentComplete: {fileID: 11400000, guid: 0f1a305b340ea41d68ee8cb5b68c7c64, type: 2}
+  - leftHandJoint: {instanceID: 0}
+  - rightHandJoint: {instanceID: 0}
+  - leftHand: {instanceID: 0}
+  - rightHand: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
